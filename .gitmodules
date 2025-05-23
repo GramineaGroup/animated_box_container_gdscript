@@ -1,0 +1,4 @@
+[submodule "addons/animated_panel_container_gdscript"]
+	path = addons/animated_panel_container_gdscript
+	url = https://github.com/GramineaGroup/animated_panel_container_gdscript.git
+	branch = release
