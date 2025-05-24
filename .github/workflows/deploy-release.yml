@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 env:
-  PLUGIN_NAME: animated_box_container_cs
+  PLUGIN_NAME: animated_box_container_gd
 
 jobs:
   deploy:
